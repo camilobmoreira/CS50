@@ -9,4 +9,4 @@
 - CS50 2017
  - pset2 (more confortable)
    - initials
-   - crack
+    -  crack
